@@ -1,4 +1,7 @@
+sub readme_from { }
+
 use inc::Module::Install;
+
 name 'WWW-TypePad';
 all_from 'lib/WWW/TypePad.pm';
 readme_from 'lib/WWW/TypePad.pm';
